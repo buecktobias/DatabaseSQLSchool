@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03f6473f-0986-4f11-ab9c-cf908cb74a36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hVEsVCYg5IftsB5rJD5Tag5xHi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite&#10;hive" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="database.data.extractors.current.export.id" value="CSV-Groovy.csv.groovy" />
+    <property name="database.data.extractors.current.id" value="CSV-Groovy.csv.groovy" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="395" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600088440562">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873@0.27.1600.873" timestamp="1600088440562" />
+    <state x="661" y="363" width="277" height="207" key="Github.ShareDialog" timestamp="1600428152579">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="661" y="363" width="277" height="207" key="Github.ShareDialog/0.27.1600.873@0.27.1600.873" timestamp="1600428152579" />
+    <state width="1067" height="129" key="GridCell.Tab.0.bottom" timestamp="1600427895794">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1067" height="129" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1600427895794" />
+    <state width="1067" height="129" key="GridCell.Tab.0.center" timestamp="1600427895793">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1067" height="129" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1600427895793" />
+    <state width="1067" height="129" key="GridCell.Tab.0.left" timestamp="1600427895793">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1067" height="129" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1600427895793" />
+    <state width="1067" height="129" key="GridCell.Tab.0.right" timestamp="1600427895793">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1067" height="129" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1600427895793" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1600088469695">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/0.27.1600.873@0.27.1600.873" timestamp="1600088469695" />
+    <state x="651" y="204" width="647" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1600427842662">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="651" y="204" width="647" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.27.1600.873@0.27.1600.873" timestamp="1600427842662" />
+  </component>
+</project>
